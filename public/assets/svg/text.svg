@@ -1,0 +1,23 @@
+<svg id="Group_26" data-name="Group 26" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Icon_awesome-text-height" data-name="Icon awesome-text-height" d="M6.318,2.25H.333A.333.333,0,0,0,0,2.583v2a.333.333,0,0,0,.333.333H1a.333.333,0,0,0,.333-.333V3.913H2.494V10.23H1.663a.333.333,0,0,0-.333.333v.665a.333.333,0,0,0,.333.333H4.988a.333.333,0,0,0,.333-.333v-.665a.333.333,0,0,0-.333-.333H4.156V3.913H5.32v.665a.333.333,0,0,0,.333.333h.665a.333.333,0,0,0,.333-.333v-2A.333.333,0,0,0,6.318,2.25Z" transform="translate(6.675 3.095)" fill="#353e3b"/>
+  <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(2 2)" fill="none" stroke="#353e3b" stroke-width="1">
+    <rect width="16" height="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="15" height="15" fill="none"/>
+  </g>
+  <g id="Ellipse_3" data-name="Ellipse 3" fill="#fff" stroke="#353e3b" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+  <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(16)" fill="#fff" stroke="#353e3b" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+  <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 16)" fill="#fff" stroke="#353e3b" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+  <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(16 16)" fill="#fff" stroke="#353e3b" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+</svg>
